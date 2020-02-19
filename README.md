@@ -5,7 +5,7 @@
 ### Author: Susanna Lakey
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/susannalakey-401-advanced-javascript/lab-07-api-server/pull/1)
 
 
 #### Documentation
