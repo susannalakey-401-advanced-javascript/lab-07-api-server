@@ -1,0 +1,33 @@
+{
+  "craftProjects": [
+    {
+      "created_by": "Mary Jones",
+      "project_name": "Striped afghan",
+      "craftId": 1,
+      "id": 1
+    },
+    {
+      "created_by": "Bilbo Baggins",
+      "project_name": "Plant hanger",
+      "craftId": 3,
+      "id": 2
+    }
+  ],
+  "craftTypes": [
+    {
+      "name": "crochet",
+      "media": "yarn",
+      "id": 1
+    },
+    {
+      "name": "knitting",
+      "media": "yarn",
+      "id": 2
+    },
+    {
+      "name": "macrame",
+      "media": "rope",
+      "id": 3
+    }
+  ]
+}

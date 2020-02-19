@@ -1,0 +1,29 @@
+{
+  "name": "lab-07-api-server",
+  "version": "1.0.0",
+  "description": "## Project Name",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susannalakey-401-advanced-javascript/lab-07-api-server.git"
+  },
+  "author": "Susanna Lakey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susannalakey-401-advanced-javascript/lab-07-api-server/issues"
+  },
+  "homepage": "https://github.com/susannalakey-401-advanced-javascript/lab-07-api-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "lint": "^0.7.0",
+    "supertest": "^4.0.2"
+  }
+}
